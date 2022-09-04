@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StudentMethods
+comment1.params=
+comment1.target=StudentMethods()
+comment2.params=student
+comment2.target=void\ addStudent(Student)
+comment3.params=ID
+comment3.target=boolean\ findStudent(int)
+comment4.params=ID
+comment4.target=void\ delStudent(int)
+comment5.params=ID
+comment5.target=Student\ searchStudent(int)
+comment6.params=ID
+comment6.target=void\ updateStudent(int)
+comment7.params=
+comment7.target=void\ display()
+numComments=8
